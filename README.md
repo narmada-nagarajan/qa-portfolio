@@ -11,4 +11,4 @@ Sample test artifacts and automation scripts from 11+ years of experience in Sof
 ## About me
 ISTQB Certified Tester (CTFL) | Agile/SAFe delivery | Manual + Automation + API + Mobile Testing
 
-📄 [Resume](https://drive.google.com/file/d/1Q0wbHA760M5UMwOWd7SLmXTmp54acdvU/view?usp=drive_link) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/narmada-nagarajan)
+📄 [Resume](https://docs.google.com/document/d/1zW1aFmrQhgOgqHca_K7zLXHQnXS68zQW/edit?usp=sharing&ouid=112403547348288725109&rtpof=true&sd=true) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/narmada-nagarajan)
